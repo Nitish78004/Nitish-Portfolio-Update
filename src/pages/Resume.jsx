@@ -53,13 +53,13 @@ export default function Resume() {
         >
           <div>
             <h3 style={{ fontSize: 24, color: "#00b4ff", marginBottom: 4 }}>
-              👨‍💻 KUNJ D. DESAI
+              👨‍💻 Nitish Singh
             </h3>
             <p style={{ margintop: 10, fontSize: 15, color: "#ccc" }}>
-              4th Year B.Tech — AI & Data Science | S.C.E.T, Sarvajanik University
+              4th Year B.Tech — Computer Science Engineering | R.R. Group of Institute
             </p>
             <p style={{ margin: "4px 0", fontSize: 14, color: "#aaa" }}>
-              📍 Jahangirpura, Surat, Gujarat
+              📍 Lucknow, Uttar Pardesh
             </p>
             <p style={{ margin: "4px 0", fontSize: 14, color: "#aaa" }}>
               ✉️ nknitishsingh92@gmail.com | 📞 +91 8960322825
