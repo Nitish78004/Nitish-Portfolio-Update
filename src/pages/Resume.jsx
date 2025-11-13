@@ -105,7 +105,7 @@ seeking opportunities to contribute to real-world full-stack projects.
           </h4>
           <ul style={{ listStyle: "none", padding: 0, margin: 0, lineHeight: 1.8 }}>
             <li>
-              <strong>B.Tech in Computer Science Engineering</strong> — S.C.E.T
+              <strong>B.Tech in Computer Science Engineering</strong> —
               (R.R. Group of Institute Lucknow), 2022–2026 <br />
               <span style={{ color: "#aaa" }}>GPA: 7.5</span>
             </li>
