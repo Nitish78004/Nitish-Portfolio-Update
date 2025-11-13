@@ -15,7 +15,7 @@ const PROJECTS = [
   ss: '/portfolio.jpg',
   tech: ['React', 'Framer Motion', 'Tailwind CSS'],
   live: '#',
-  code: ''
+  code: 'https://github.com/Nitish78004/Nitish-Portfolio-Update'
   },
   {
     title: '💬 chat-boat – Gemini AI Chatbot',
