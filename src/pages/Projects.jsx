@@ -7,7 +7,8 @@ const PROJECTS = [
     title: '🤖 Real-estate Project',
     desc: 'Real-time gesture recognition and translation using Mediapipe + TensorFlow, enabling live sign-to-text interpretation.',
     ss: '/ISL.png',
-    tech: ['React','Bootstrap','Node.js','Express.js']
+    tech: ['React','Bootstrap','Node.js','Express.js'],
+    code: 'https://github.com/Nitish78004/part 1'
   },
   {
   title: '💼 Portfolio Website',
